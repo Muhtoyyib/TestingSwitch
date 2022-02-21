@@ -12,10 +12,11 @@ function myAns(ans){
         break;
 
         case 7:
-            msg = 'correct!';
+            msg = 'correct you are amazing!';
+            document.getElementById("ans").style.color = "green";
         break;
 
-        case 8:
+        case 10:
             msg = 'Incorrect!';
         break;
     }
