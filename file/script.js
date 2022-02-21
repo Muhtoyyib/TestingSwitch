@@ -12,7 +12,7 @@ function myAns(ans){
         break;
 
         case 7:
-            msg = 'correct you are amazing!';
+            msg = 'Correct you are amazing!';
             document.getElementById("ans").style.color = "green";
         break;
 
